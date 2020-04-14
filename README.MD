@@ -1,5 +1,5 @@
 # SIMPLE FOOD RECOMMENDATION
-This application is a simple food recommendation, and the purpose of this app is to demonstrate how elasticsearch can become really handy in generating list of results based on certain keyword(s).
+This application is a simple food recommendation, and the purpose of this app is to demonstrate how [Elasticsearch](https://www.elastic.co/what-is/elasticsearch) can become really handy in generating list of results based on certain keyword(s).
 
 ## Getting Started
 Clone this project to your machine. If you want to run this project in a VM, make sure you have your virtualization software installed. I developed this repository on Oracle VirtualBox 6.1.2
